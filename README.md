@@ -48,4 +48,32 @@ The dataset includes **120,000+** synthetic but highly realistic fintech transac
 | `devices` | 7,000 | Device OS + location (risk correlation) |
 | `transactions` | 120,000 | Full payment data + fraud flags |
 
-Complete ERD:  
+
+---
+
+## 🚀 SQL Features
+
+🧠 Written for PostgreSQL (works with MySQL with minor tweaks)
+
+### ✔️ Key SQL analysis included:
+- Fraud rate by:
+  - Payment method  
+  - Merchant  
+  - City  
+  - Hour of day  
+  - Device OS  
+- High-value anomaly detection  
+- Multiple failed-transaction detection  
+- Merchant risk profiling (Pareto analysis)  
+- User behavior scoring  
+- Time-series fraud trend analysis  
+
+Example query (fraud by payment method):
+```sql
+SELECT payment_method,
+       COUNT(*) AS total_txns,
+       SUM(is_fraud) AS fraud_cases,
+       ROUND(100.0 * SUM(is_fraud)::numeric / COUNT(*), 2) AS fraud_rate_pct
+FROM transactions
+GROUP BY payment_method
+ORDER BY fraud_rate_pct DESC;
