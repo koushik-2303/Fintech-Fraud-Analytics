@@ -1,0 +1,801 @@
+merchant_id,merchant_type,city,risk_rating
+M20000,Health,Jaipur,Medium
+M20001,Food & Beverage,Mumbai,Medium
+M20002,Fashion,Sao Paulo,Medium
+M20003,Fashion,Cape Town,Low
+M20004,Grocery,Kolkata,Low
+M20005,Electronics,Hyderabad,Medium
+M20006,Health,New York,Low
+M20007,Food & Beverage,Delhi,Low
+M20008,Fashion,Mumbai,Low
+M20009,Others,Sydney,Low
+M20010,Grocery,Chennai,Low
+M20011,Food & Beverage,London,Low
+M20012,Travel,Sao Paulo,Low
+M20013,Grocery,Berlin,Low
+M20014,Others,Kolkata,Low
+M20015,Others,Bangalore,Medium
+M20016,Travel,San Francisco,High
+M20017,Others,Ahmedabad,Low
+M20018,Grocery,Cape Town,Low
+M20019,Others,New York,Low
+M20020,Education,Delhi,Low
+M20021,Electronics,Kolkata,Medium
+M20022,Fashion,Berlin,Medium
+M20023,Health,San Francisco,Low
+M20024,Travel,Berlin,Medium
+M20025,Travel,Kolkata,Low
+M20026,Fashion,Kolkata,Low
+M20027,Grocery,Chennai,Medium
+M20028,Grocery,San Francisco,Low
+M20029,Electronics,Delhi,Low
+M20030,Utility,Tokyo,Medium
+M20031,Travel,Hyderabad,Low
+M20032,Food & Beverage,Jaipur,Low
+M20033,Electronics,Kolkata,Low
+M20034,Electronics,Ahmedabad,Low
+M20035,Fashion,Berlin,Low
+M20036,Grocery,Chennai,Low
+M20037,Fashion,London,Low
+M20038,Food & Beverage,Mumbai,Low
+M20039,Utility,Chennai,Low
+M20040,Food & Beverage,San Francisco,Medium
+M20041,Education,London,Low
+M20042,Grocery,New York,Low
+M20043,Others,Kolkata,Medium
+M20044,Electronics,Chennai,Low
+M20045,Grocery,Ahmedabad,Low
+M20046,Fashion,Bangalore,Low
+M20047,Electronics,Sao Paulo,Low
+M20048,Food & Beverage,Kolkata,High
+M20049,Health,San Francisco,Low
+M20050,Health,Bangalore,Medium
+M20051,Fashion,New York,Low
+M20052,Others,Chennai,Low
+M20053,Food & Beverage,Hyderabad,Low
+M20054,Grocery,Ahmedabad,Low
+M20055,Education,Bangalore,Low
+M20056,Electronics,Bangalore,Low
+M20057,Grocery,Berlin,Low
+M20058,Grocery,Pune,Medium
+M20059,Travel,London,Medium
+M20060,Travel,New York,Low
+M20061,Travel,New York,High
+M20062,Fashion,New York,Low
+M20063,Health,Cape Town,Low
+M20064,Others,New York,Low
+M20065,Grocery,Pune,Low
+M20066,Grocery,Hyderabad,Low
+M20067,Fashion,Tokyo,Low
+M20068,Grocery,Ahmedabad,Medium
+M20069,Food & Beverage,London,Low
+M20070,Fashion,Tokyo,Medium
+M20071,Health,Kolkata,Low
+M20072,Electronics,Kolkata,Low
+M20073,Fashion,Delhi,Low
+M20074,Fashion,Mumbai,Low
+M20075,Education,New York,Low
+M20076,Travel,Lucknow,Medium
+M20077,Health,Hyderabad,Low
+M20078,Health,Chennai,Low
+M20079,Electronics,San Francisco,Medium
+M20080,Fashion,Mumbai,Low
+M20081,Utility,San Francisco,Medium
+M20082,Electronics,Sydney,Low
+M20083,Food & Beverage,Jaipur,Low
+M20084,Food & Beverage,Jaipur,Low
+M20085,Health,Lucknow,Low
+M20086,Grocery,Mumbai,Low
+M20087,Food & Beverage,New York,Low
+M20088,Electronics,Pune,High
+M20089,Fashion,Jaipur,Medium
+M20090,Utility,Delhi,Low
+M20091,Food & Beverage,Sao Paulo,Low
+M20092,Food & Beverage,Pune,Medium
+M20093,Travel,Mumbai,Low
+M20094,Travel,Tokyo,Low
+M20095,Utility,Cape Town,Low
+M20096,Grocery,Lucknow,Low
+M20097,Health,Delhi,Low
+M20098,Fashion,Cape Town,Medium
+M20099,Others,Chennai,Low
+M20100,Electronics,Kolkata,Medium
+M20101,Food & Beverage,San Francisco,Medium
+M20102,Grocery,Hyderabad,Low
+M20103,Others,Mumbai,Medium
+M20104,Utility,San Francisco,Low
+M20105,Fashion,Kolkata,Medium
+M20106,Utility,Sao Paulo,Low
+M20107,Electronics,Bangalore,Low
+M20108,Fashion,Sydney,Low
+M20109,Health,Berlin,Medium
+M20110,Grocery,Kolkata,Low
+M20111,Others,London,Medium
+M20112,Others,Sydney,Low
+M20113,Others,Mumbai,Low
+M20114,Health,Tokyo,Low
+M20115,Electronics,Jaipur,Low
+M20116,Fashion,Cape Town,Low
+M20117,Grocery,Chennai,Low
+M20118,Health,San Francisco,Medium
+M20119,Grocery,Cape Town,Medium
+M20120,Others,Pune,Low
+M20121,Electronics,Mumbai,Low
+M20122,Grocery,Ahmedabad,Low
+M20123,Grocery,London,Medium
+M20124,Utility,New York,Medium
+M20125,Electronics,Jaipur,Medium
+M20126,Electronics,Sydney,Medium
+M20127,Grocery,London,Low
+M20128,Travel,New York,Low
+M20129,Others,Cape Town,Medium
+M20130,Food & Beverage,Sydney,Low
+M20131,Electronics,Pune,Low
+M20132,Grocery,Hyderabad,Low
+M20133,Grocery,Berlin,Medium
+M20134,Travel,Lucknow,Low
+M20135,Grocery,Jaipur,High
+M20136,Grocery,San Francisco,Low
+M20137,Grocery,New York,Low
+M20138,Travel,Sydney,Low
+M20139,Health,Pune,Medium
+M20140,Grocery,Berlin,Low
+M20141,Utility,Kolkata,Medium
+M20142,Fashion,Sydney,Low
+M20143,Others,Mumbai,Medium
+M20144,Electronics,Berlin,Medium
+M20145,Health,Mumbai,Low
+M20146,Others,Sao Paulo,Medium
+M20147,Others,Cape Town,Low
+M20148,Health,Tokyo,Medium
+M20149,Grocery,Tokyo,Medium
+M20150,Others,Jaipur,Low
+M20151,Education,Kolkata,Low
+M20152,Electronics,Cape Town,High
+M20153,Grocery,Lucknow,Medium
+M20154,Others,Tokyo,Low
+M20155,Grocery,San Francisco,High
+M20156,Health,San Francisco,Low
+M20157,Food & Beverage,Pune,Low
+M20158,Utility,Ahmedabad,Low
+M20159,Grocery,Ahmedabad,Low
+M20160,Utility,London,Low
+M20161,Food & Beverage,San Francisco,Low
+M20162,Others,Chennai,Low
+M20163,Electronics,Kolkata,Low
+M20164,Grocery,Delhi,Medium
+M20165,Electronics,Lucknow,Medium
+M20166,Grocery,San Francisco,High
+M20167,Others,Chennai,Low
+M20168,Grocery,San Francisco,Medium
+M20169,Electronics,Delhi,Low
+M20170,Health,Sao Paulo,Low
+M20171,Electronics,San Francisco,Medium
+M20172,Electronics,San Francisco,Low
+M20173,Utility,San Francisco,Medium
+M20174,Food & Beverage,Pune,Low
+M20175,Education,Cape Town,Low
+M20176,Fashion,Berlin,Low
+M20177,Electronics,Chennai,Low
+M20178,Fashion,Sydney,Low
+M20179,Others,Berlin,Low
+M20180,Travel,Hyderabad,Low
+M20181,Utility,Cape Town,Medium
+M20182,Food & Beverage,Kolkata,Low
+M20183,Food & Beverage,New York,Low
+M20184,Utility,San Francisco,Low
+M20185,Grocery,Cape Town,Low
+M20186,Food & Beverage,London,Low
+M20187,Grocery,Cape Town,Low
+M20188,Utility,Hyderabad,Medium
+M20189,Fashion,Tokyo,Low
+M20190,Travel,Kolkata,Medium
+M20191,Grocery,Cape Town,Low
+M20192,Others,Berlin,Low
+M20193,Travel,New York,Low
+M20194,Electronics,Mumbai,Low
+M20195,Grocery,Jaipur,Low
+M20196,Fashion,Bangalore,Low
+M20197,Electronics,Sydney,Low
+M20198,Education,Pune,Low
+M20199,Utility,Tokyo,Low
+M20200,Grocery,Sydney,Medium
+M20201,Fashion,Mumbai,Medium
+M20202,Electronics,Berlin,Low
+M20203,Grocery,Hyderabad,Low
+M20204,Fashion,Mumbai,Low
+M20205,Electronics,Kolkata,Medium
+M20206,Others,Lucknow,Low
+M20207,Fashion,Sao Paulo,Low
+M20208,Electronics,San Francisco,High
+M20209,Others,Kolkata,Low
+M20210,Food & Beverage,Hyderabad,Low
+M20211,Grocery,Hyderabad,Medium
+M20212,Food & Beverage,Berlin,Medium
+M20213,Others,Lucknow,Low
+M20214,Food & Beverage,Delhi,Low
+M20215,Food & Beverage,Mumbai,Low
+M20216,Food & Beverage,Mumbai,Low
+M20217,Electronics,Cape Town,Low
+M20218,Grocery,Lucknow,Low
+M20219,Fashion,Jaipur,Low
+M20220,Others,Berlin,Medium
+M20221,Utility,Chennai,High
+M20222,Grocery,Delhi,Medium
+M20223,Food & Beverage,Kolkata,Low
+M20224,Grocery,Chennai,Low
+M20225,Travel,Tokyo,Low
+M20226,Fashion,Tokyo,Low
+M20227,Electronics,New York,Low
+M20228,Education,Sydney,Medium
+M20229,Food & Beverage,Jaipur,Low
+M20230,Fashion,Kolkata,Low
+M20231,Others,Hyderabad,Low
+M20232,Utility,Bangalore,High
+M20233,Others,Sydney,Low
+M20234,Health,London,Low
+M20235,Fashion,Berlin,Low
+M20236,Electronics,Hyderabad,Medium
+M20237,Electronics,San Francisco,Low
+M20238,Others,Hyderabad,Low
+M20239,Grocery,Jaipur,Medium
+M20240,Others,New York,Medium
+M20241,Travel,Cape Town,Low
+M20242,Utility,London,Medium
+M20243,Travel,San Francisco,Low
+M20244,Others,London,Low
+M20245,Grocery,Ahmedabad,Low
+M20246,Travel,Sydney,Low
+M20247,Others,Cape Town,Low
+M20248,Electronics,Hyderabad,Medium
+M20249,Electronics,Sydney,Medium
+M20250,Others,Jaipur,Low
+M20251,Education,Berlin,Medium
+M20252,Grocery,Lucknow,High
+M20253,Fashion,Berlin,Low
+M20254,Electronics,Sao Paulo,Medium
+M20255,Electronics,Ahmedabad,High
+M20256,Fashion,San Francisco,Medium
+M20257,Grocery,Lucknow,Low
+M20258,Food & Beverage,Tokyo,Medium
+M20259,Electronics,Chennai,Medium
+M20260,Education,Berlin,Low
+M20261,Fashion,London,Low
+M20262,Electronics,Jaipur,Low
+M20263,Others,Pune,Low
+M20264,Education,San Francisco,Low
+M20265,Electronics,Pune,Low
+M20266,Others,Delhi,Medium
+M20267,Electronics,Cape Town,Medium
+M20268,Electronics,Jaipur,Low
+M20269,Food & Beverage,Bangalore,Low
+M20270,Grocery,Kolkata,Low
+M20271,Utility,Tokyo,Low
+M20272,Fashion,Hyderabad,Low
+M20273,Others,Hyderabad,Low
+M20274,Electronics,Jaipur,High
+M20275,Grocery,Delhi,Low
+M20276,Travel,London,Low
+M20277,Grocery,Delhi,Medium
+M20278,Others,Sao Paulo,Low
+M20279,Utility,Ahmedabad,Low
+M20280,Health,Chennai,Low
+M20281,Utility,Jaipur,Low
+M20282,Electronics,Chennai,Low
+M20283,Grocery,Hyderabad,Medium
+M20284,Food & Beverage,Bangalore,Low
+M20285,Education,San Francisco,Medium
+M20286,Travel,Cape Town,Low
+M20287,Grocery,Jaipur,Medium
+M20288,Fashion,Mumbai,Low
+M20289,Electronics,Mumbai,Low
+M20290,Food & Beverage,Tokyo,Low
+M20291,Grocery,Pune,Low
+M20292,Food & Beverage,Hyderabad,Low
+M20293,Food & Beverage,Mumbai,Low
+M20294,Others,New York,Low
+M20295,Utility,Mumbai,Low
+M20296,Grocery,Sydney,Low
+M20297,Health,Chennai,Low
+M20298,Health,Mumbai,Low
+M20299,Fashion,San Francisco,Low
+M20300,Others,Pune,Low
+M20301,Health,San Francisco,Low
+M20302,Electronics,Delhi,Low
+M20303,Food & Beverage,Sao Paulo,Low
+M20304,Travel,Hyderabad,High
+M20305,Food & Beverage,Berlin,Medium
+M20306,Others,Sydney,Low
+M20307,Fashion,Lucknow,Low
+M20308,Travel,Pune,Low
+M20309,Others,Hyderabad,Low
+M20310,Utility,San Francisco,Low
+M20311,Electronics,Delhi,Low
+M20312,Others,Bangalore,Low
+M20313,Travel,New York,Low
+M20314,Food & Beverage,Delhi,Medium
+M20315,Food & Beverage,Hyderabad,Low
+M20316,Others,New York,Medium
+M20317,Electronics,Kolkata,High
+M20318,Travel,Sydney,Low
+M20319,Fashion,Cape Town,Medium
+M20320,Others,Delhi,Medium
+M20321,Grocery,Chennai,Low
+M20322,Electronics,Sydney,Low
+M20323,Others,Delhi,Medium
+M20324,Health,Jaipur,Low
+M20325,Travel,Cape Town,Low
+M20326,Travel,London,Low
+M20327,Food & Beverage,Hyderabad,Low
+M20328,Utility,Delhi,Low
+M20329,Fashion,Ahmedabad,High
+M20330,Health,Lucknow,Low
+M20331,Grocery,Mumbai,Low
+M20332,Education,Lucknow,Low
+M20333,Grocery,Ahmedabad,Low
+M20334,Others,Hyderabad,Medium
+M20335,Grocery,Cape Town,Low
+M20336,Grocery,Sydney,Low
+M20337,Electronics,San Francisco,Low
+M20338,Electronics,London,High
+M20339,Food & Beverage,Jaipur,Medium
+M20340,Fashion,Mumbai,Low
+M20341,Others,Hyderabad,Low
+M20342,Food & Beverage,Delhi,Low
+M20343,Food & Beverage,Pune,Medium
+M20344,Travel,Jaipur,Medium
+M20345,Health,New York,Low
+M20346,Grocery,Pune,Medium
+M20347,Travel,Kolkata,Low
+M20348,Grocery,San Francisco,Low
+M20349,Electronics,Bangalore,Low
+M20350,Fashion,Bangalore,Low
+M20351,Grocery,San Francisco,Low
+M20352,Grocery,London,Low
+M20353,Education,Sao Paulo,Medium
+M20354,Grocery,Berlin,High
+M20355,Fashion,Sydney,Low
+M20356,Travel,New York,Low
+M20357,Others,Sao Paulo,Medium
+M20358,Utility,Chennai,Low
+M20359,Grocery,Lucknow,Medium
+M20360,Others,Cape Town,Low
+M20361,Food & Beverage,Tokyo,Low
+M20362,Electronics,Ahmedabad,Medium
+M20363,Utility,Sydney,Low
+M20364,Utility,Hyderabad,Low
+M20365,Travel,Delhi,Low
+M20366,Travel,Tokyo,Medium
+M20367,Grocery,Ahmedabad,Medium
+M20368,Fashion,Delhi,Low
+M20369,Others,Chennai,Low
+M20370,Food & Beverage,Mumbai,Low
+M20371,Others,Cape Town,Low
+M20372,Grocery,Sao Paulo,Low
+M20373,Health,Sydney,Low
+M20374,Others,Chennai,Low
+M20375,Utility,Tokyo,Low
+M20376,Grocery,London,Low
+M20377,Travel,Hyderabad,Low
+M20378,Grocery,San Francisco,Low
+M20379,Fashion,Cape Town,Low
+M20380,Others,Jaipur,Low
+M20381,Food & Beverage,Delhi,Low
+M20382,Grocery,Sao Paulo,Low
+M20383,Electronics,Chennai,Low
+M20384,Fashion,Chennai,Low
+M20385,Fashion,New York,Low
+M20386,Electronics,Tokyo,Low
+M20387,Health,Tokyo,Low
+M20388,Grocery,Sao Paulo,Low
+M20389,Fashion,Sao Paulo,Low
+M20390,Food & Beverage,Bangalore,Low
+M20391,Grocery,Hyderabad,Low
+M20392,Fashion,San Francisco,Medium
+M20393,Utility,Ahmedabad,Low
+M20394,Food & Beverage,San Francisco,Medium
+M20395,Health,Jaipur,Low
+M20396,Food & Beverage,Jaipur,Medium
+M20397,Electronics,Delhi,Medium
+M20398,Others,London,Low
+M20399,Others,Sao Paulo,Low
+M20400,Grocery,Tokyo,Low
+M20401,Others,Pune,Low
+M20402,Health,San Francisco,Low
+M20403,Grocery,Chennai,Medium
+M20404,Food & Beverage,New York,Medium
+M20405,Grocery,Ahmedabad,High
+M20406,Fashion,Sydney,Medium
+M20407,Others,San Francisco,Medium
+M20408,Travel,Mumbai,Medium
+M20409,Food & Beverage,Sao Paulo,Low
+M20410,Electronics,Berlin,Medium
+M20411,Food & Beverage,Chennai,Low
+M20412,Health,Hyderabad,Low
+M20413,Electronics,Chennai,Low
+M20414,Fashion,Hyderabad,Low
+M20415,Travel,Sydney,Medium
+M20416,Utility,Sydney,Low
+M20417,Utility,Lucknow,Low
+M20418,Utility,Pune,Low
+M20419,Food & Beverage,Pune,Low
+M20420,Fashion,Cape Town,Low
+M20421,Fashion,Chennai,Low
+M20422,Utility,Berlin,Low
+M20423,Fashion,Cape Town,Low
+M20424,Others,Sao Paulo,Low
+M20425,Electronics,San Francisco,Low
+M20426,Grocery,Sydney,Low
+M20427,Others,Chennai,Medium
+M20428,Grocery,Cape Town,Medium
+M20429,Others,Mumbai,Medium
+M20430,Fashion,Delhi,Low
+M20431,Others,Chennai,Low
+M20432,Fashion,London,Medium
+M20433,Education,Kolkata,High
+M20434,Utility,New York,Low
+M20435,Food & Beverage,Mumbai,Low
+M20436,Travel,San Francisco,Low
+M20437,Grocery,Kolkata,Low
+M20438,Electronics,Lucknow,High
+M20439,Others,Bangalore,Medium
+M20440,Electronics,Cape Town,High
+M20441,Health,Pune,Low
+M20442,Food & Beverage,London,Low
+M20443,Travel,Jaipur,Medium
+M20444,Others,London,Low
+M20445,Grocery,Jaipur,Low
+M20446,Fashion,Mumbai,Low
+M20447,Food & Beverage,Tokyo,Low
+M20448,Grocery,New York,Low
+M20449,Electronics,Kolkata,Medium
+M20450,Utility,Mumbai,Low
+M20451,Grocery,Sao Paulo,Low
+M20452,Health,Hyderabad,Low
+M20453,Fashion,Sydney,Low
+M20454,Grocery,Berlin,Low
+M20455,Electronics,Cape Town,Low
+M20456,Grocery,New York,Medium
+M20457,Health,Chennai,Low
+M20458,Food & Beverage,Delhi,Low
+M20459,Grocery,Kolkata,Low
+M20460,Food & Beverage,Ahmedabad,Low
+M20461,Food & Beverage,New York,Low
+M20462,Fashion,Sydney,Low
+M20463,Grocery,Bangalore,Low
+M20464,Grocery,New York,Low
+M20465,Travel,Mumbai,Low
+M20466,Utility,Jaipur,Low
+M20467,Fashion,Mumbai,Low
+M20468,Electronics,Pune,Low
+M20469,Electronics,London,Low
+M20470,Utility,Berlin,Low
+M20471,Grocery,Tokyo,Medium
+M20472,Fashion,Lucknow,Low
+M20473,Food & Beverage,Kolkata,Medium
+M20474,Electronics,Sydney,Low
+M20475,Food & Beverage,Sydney,Low
+M20476,Electronics,Cape Town,Low
+M20477,Fashion,Tokyo,Low
+M20478,Grocery,Tokyo,Medium
+M20479,Food & Beverage,Mumbai,Medium
+M20480,Food & Beverage,London,Medium
+M20481,Grocery,Ahmedabad,Low
+M20482,Fashion,Kolkata,Medium
+M20483,Health,Mumbai,Low
+M20484,Others,Chennai,Medium
+M20485,Electronics,Sydney,Low
+M20486,Electronics,Sydney,Medium
+M20487,Travel,Berlin,Low
+M20488,Others,Mumbai,Low
+M20489,Food & Beverage,San Francisco,High
+M20490,Travel,Bangalore,Low
+M20491,Utility,San Francisco,Medium
+M20492,Grocery,Delhi,Low
+M20493,Food & Beverage,Hyderabad,Low
+M20494,Food & Beverage,Bangalore,Medium
+M20495,Fashion,Sydney,Low
+M20496,Utility,London,Medium
+M20497,Travel,Sydney,Low
+M20498,Fashion,Delhi,Low
+M20499,Food & Beverage,Berlin,Low
+M20500,Grocery,Jaipur,Low
+M20501,Others,Jaipur,Medium
+M20502,Health,Sao Paulo,Medium
+M20503,Others,Delhi,Low
+M20504,Utility,Sydney,Low
+M20505,Electronics,Delhi,Low
+M20506,Food & Beverage,Pune,Low
+M20507,Food & Beverage,Bangalore,Medium
+M20508,Grocery,Lucknow,Low
+M20509,Food & Beverage,London,Low
+M20510,Travel,New York,Low
+M20511,Grocery,Tokyo,Low
+M20512,Education,Berlin,Medium
+M20513,Grocery,Cape Town,Low
+M20514,Food & Beverage,Jaipur,Low
+M20515,Health,Chennai,Low
+M20516,Fashion,Bangalore,Low
+M20517,Grocery,Kolkata,Low
+M20518,Fashion,London,Medium
+M20519,Health,Delhi,Low
+M20520,Education,Cape Town,Low
+M20521,Travel,Cape Town,Low
+M20522,Grocery,Bangalore,Medium
+M20523,Fashion,Tokyo,Low
+M20524,Electronics,London,Low
+M20525,Health,Jaipur,Medium
+M20526,Utility,Berlin,Low
+M20527,Health,London,Medium
+M20528,Others,Hyderabad,Medium
+M20529,Fashion,London,Medium
+M20530,Others,Bangalore,Low
+M20531,Fashion,Kolkata,Low
+M20532,Electronics,Cape Town,Medium
+M20533,Health,Chennai,Low
+M20534,Utility,London,Low
+M20535,Others,Hyderabad,Low
+M20536,Electronics,Jaipur,Low
+M20537,Travel,Kolkata,Low
+M20538,Education,London,Medium
+M20539,Grocery,London,Low
+M20540,Fashion,New York,Low
+M20541,Food & Beverage,Hyderabad,High
+M20542,Grocery,London,Low
+M20543,Grocery,Berlin,Low
+M20544,Education,San Francisco,Low
+M20545,Grocery,London,Low
+M20546,Utility,Hyderabad,Low
+M20547,Utility,Lucknow,Low
+M20548,Fashion,Lucknow,Low
+M20549,Food & Beverage,Cape Town,Low
+M20550,Grocery,Pune,Low
+M20551,Health,Hyderabad,Low
+M20552,Grocery,Berlin,Low
+M20553,Electronics,New York,Low
+M20554,Others,Ahmedabad,Low
+M20555,Travel,Delhi,Medium
+M20556,Electronics,San Francisco,Low
+M20557,Others,Berlin,Medium
+M20558,Grocery,Sydney,Low
+M20559,Grocery,Lucknow,Low
+M20560,Food & Beverage,Lucknow,Low
+M20561,Health,Chennai,Low
+M20562,Others,Jaipur,Low
+M20563,Health,Delhi,Medium
+M20564,Others,Lucknow,Medium
+M20565,Grocery,San Francisco,High
+M20566,Fashion,Tokyo,Medium
+M20567,Grocery,New York,Low
+M20568,Others,Tokyo,Low
+M20569,Others,New York,Low
+M20570,Travel,Tokyo,Low
+M20571,Education,Ahmedabad,Medium
+M20572,Fashion,London,Low
+M20573,Grocery,New York,Low
+M20574,Fashion,London,Low
+M20575,Others,London,Medium
+M20576,Travel,Tokyo,Low
+M20577,Grocery,Kolkata,Medium
+M20578,Others,Hyderabad,Low
+M20579,Food & Beverage,Lucknow,Low
+M20580,Food & Beverage,New York,Low
+M20581,Utility,Lucknow,Medium
+M20582,Fashion,Chennai,Medium
+M20583,Travel,Tokyo,Low
+M20584,Grocery,Lucknow,Low
+M20585,Education,Ahmedabad,Low
+M20586,Food & Beverage,Sao Paulo,Low
+M20587,Utility,Ahmedabad,Low
+M20588,Others,Bangalore,Low
+M20589,Grocery,Cape Town,Low
+M20590,Education,Pune,Medium
+M20591,Health,Sydney,Medium
+M20592,Others,Lucknow,Medium
+M20593,Electronics,Kolkata,High
+M20594,Travel,Pune,High
+M20595,Fashion,Sydney,Low
+M20596,Others,Cape Town,Low
+M20597,Others,Bangalore,Low
+M20598,Food & Beverage,Cape Town,Medium
+M20599,Food & Beverage,Sao Paulo,Low
+M20600,Grocery,New York,Low
+M20601,Utility,Chennai,Low
+M20602,Education,London,Low
+M20603,Health,Ahmedabad,Low
+M20604,Travel,Bangalore,Medium
+M20605,Others,Cape Town,Low
+M20606,Grocery,London,Medium
+M20607,Food & Beverage,Mumbai,Low
+M20608,Fashion,Pune,Medium
+M20609,Food & Beverage,Sao Paulo,Low
+M20610,Health,Ahmedabad,Low
+M20611,Fashion,Jaipur,High
+M20612,Grocery,Bangalore,Medium
+M20613,Grocery,Mumbai,Medium
+M20614,Food & Beverage,Cape Town,Medium
+M20615,Utility,Cape Town,Low
+M20616,Food & Beverage,Mumbai,Low
+M20617,Travel,Lucknow,Low
+M20618,Grocery,San Francisco,Medium
+M20619,Health,Sao Paulo,Medium
+M20620,Food & Beverage,London,High
+M20621,Food & Beverage,Sao Paulo,Medium
+M20622,Food & Beverage,Bangalore,Low
+M20623,Electronics,Delhi,Low
+M20624,Electronics,Jaipur,Low
+M20625,Grocery,Kolkata,Low
+M20626,Utility,Berlin,Medium
+M20627,Electronics,Pune,Low
+M20628,Electronics,Ahmedabad,Medium
+M20629,Others,Lucknow,Low
+M20630,Food & Beverage,Cape Town,Low
+M20631,Food & Beverage,Mumbai,Medium
+M20632,Food & Beverage,Lucknow,Low
+M20633,Electronics,Ahmedabad,Medium
+M20634,Grocery,Delhi,Low
+M20635,Education,Tokyo,Low
+M20636,Food & Beverage,Sydney,Low
+M20637,Utility,Chennai,Low
+M20638,Others,Berlin,Medium
+M20639,Grocery,San Francisco,High
+M20640,Utility,San Francisco,Medium
+M20641,Grocery,Jaipur,Low
+M20642,Food & Beverage,Hyderabad,High
+M20643,Education,Mumbai,Low
+M20644,Grocery,Delhi,Low
+M20645,Others,Chennai,Medium
+M20646,Fashion,Lucknow,Medium
+M20647,Food & Beverage,Bangalore,Medium
+M20648,Grocery,San Francisco,Medium
+M20649,Fashion,New York,Low
+M20650,Food & Beverage,Pune,Low
+M20651,Electronics,Mumbai,Low
+M20652,Food & Beverage,Lucknow,Low
+M20653,Grocery,Tokyo,Low
+M20654,Others,Ahmedabad,Low
+M20655,Travel,Tokyo,Low
+M20656,Food & Beverage,Hyderabad,Low
+M20657,Health,Mumbai,Medium
+M20658,Utility,New York,Low
+M20659,Others,Sao Paulo,Low
+M20660,Others,Sao Paulo,Low
+M20661,Electronics,Cape Town,Low
+M20662,Food & Beverage,Mumbai,Low
+M20663,Utility,Delhi,Low
+M20664,Grocery,London,Medium
+M20665,Utility,Cape Town,Medium
+M20666,Grocery,Cape Town,Low
+M20667,Others,Hyderabad,Low
+M20668,Utility,Pune,Low
+M20669,Fashion,New York,Low
+M20670,Food & Beverage,Sydney,Low
+M20671,Others,Chennai,High
+M20672,Utility,Cape Town,Low
+M20673,Health,Tokyo,Low
+M20674,Education,Mumbai,Medium
+M20675,Grocery,Sao Paulo,Low
+M20676,Grocery,New York,Low
+M20677,Electronics,Cape Town,Low
+M20678,Fashion,Chennai,Low
+M20679,Fashion,Cape Town,Low
+M20680,Travel,Delhi,High
+M20681,Others,Mumbai,Low
+M20682,Grocery,Jaipur,Medium
+M20683,Health,New York,Low
+M20684,Food & Beverage,Chennai,Medium
+M20685,Food & Beverage,Kolkata,Low
+M20686,Grocery,Ahmedabad,Low
+M20687,Utility,Bangalore,Low
+M20688,Health,Chennai,Low
+M20689,Travel,Bangalore,Low
+M20690,Food & Beverage,Cape Town,Low
+M20691,Fashion,Sydney,Medium
+M20692,Travel,New York,Low
+M20693,Fashion,San Francisco,Low
+M20694,Food & Beverage,Bangalore,Medium
+M20695,Others,Delhi,Low
+M20696,Utility,Pune,Low
+M20697,Grocery,Cape Town,Medium
+M20698,Health,Jaipur,Medium
+M20699,Travel,Tokyo,Low
+M20700,Others,Pune,Low
+M20701,Fashion,Hyderabad,Low
+M20702,Grocery,Tokyo,Low
+M20703,Utility,Jaipur,Medium
+M20704,Grocery,Berlin,High
+M20705,Others,Berlin,Low
+M20706,Others,Berlin,Low
+M20707,Utility,San Francisco,Medium
+M20708,Food & Beverage,Tokyo,Low
+M20709,Fashion,Jaipur,Medium
+M20710,Food & Beverage,Hyderabad,Low
+M20711,Grocery,Lucknow,Low
+M20712,Others,Hyderabad,Low
+M20713,Travel,Delhi,High
+M20714,Travel,Pune,Low
+M20715,Electronics,Lucknow,Medium
+M20716,Others,Lucknow,Low
+M20717,Others,Pune,Low
+M20718,Travel,Berlin,Low
+M20719,Electronics,Hyderabad,Low
+M20720,Health,New York,Low
+M20721,Food & Beverage,Kolkata,Low
+M20722,Others,Cape Town,Low
+M20723,Others,New York,Low
+M20724,Health,London,Medium
+M20725,Grocery,Ahmedabad,Medium
+M20726,Utility,Berlin,Low
+M20727,Others,Ahmedabad,Low
+M20728,Food & Beverage,Tokyo,High
+M20729,Others,Bangalore,Low
+M20730,Food & Beverage,Tokyo,Medium
+M20731,Others,Cape Town,Low
+M20732,Fashion,Kolkata,Medium
+M20733,Grocery,Kolkata,Low
+M20734,Food & Beverage,Cape Town,Low
+M20735,Grocery,Ahmedabad,Low
+M20736,Food & Beverage,San Francisco,Low
+M20737,Others,Chennai,Low
+M20738,Electronics,Ahmedabad,High
+M20739,Others,San Francisco,Low
+M20740,Grocery,Sydney,Low
+M20741,Fashion,Ahmedabad,Low
+M20742,Others,Mumbai,Low
+M20743,Fashion,Ahmedabad,Low
+M20744,Others,New York,Low
+M20745,Others,Sao Paulo,Medium
+M20746,Fashion,Sao Paulo,Medium
+M20747,Health,Berlin,Low
+M20748,Grocery,Bangalore,Medium
+M20749,Food & Beverage,Lucknow,Low
+M20750,Electronics,London,Low
+M20751,Education,Jaipur,Medium
+M20752,Utility,Sydney,Medium
+M20753,Fashion,Cape Town,Low
+M20754,Others,Chennai,Low
+M20755,Grocery,Cape Town,Low
+M20756,Others,Sao Paulo,Low
+M20757,Grocery,San Francisco,Low
+M20758,Travel,Pune,Low
+M20759,Fashion,Berlin,Medium
+M20760,Travel,London,Medium
+M20761,Utility,Sydney,Low
+M20762,Health,San Francisco,Medium
+M20763,Education,Cape Town,Medium
+M20764,Grocery,Ahmedabad,Low
+M20765,Electronics,Mumbai,Low
+M20766,Grocery,Jaipur,Medium
+M20767,Food & Beverage,Cape Town,High
+M20768,Grocery,New York,Low
+M20769,Travel,San Francisco,Low
+M20770,Education,New York,Medium
+M20771,Others,London,High
+M20772,Education,Mumbai,Low
+M20773,Grocery,Ahmedabad,Low
+M20774,Fashion,Mumbai,Medium
+M20775,Grocery,Pune,Low
+M20776,Food & Beverage,San Francisco,Low
+M20777,Food & Beverage,Tokyo,Low
+M20778,Others,Kolkata,Low
+M20779,Fashion,New York,Medium
+M20780,Electronics,Kolkata,Low
+M20781,Fashion,Chennai,Medium
+M20782,Others,Cape Town,Low
+M20783,Grocery,London,Medium
+M20784,Education,Chennai,Low
+M20785,Electronics,Bangalore,Low
+M20786,Grocery,Delhi,High
+M20787,Others,Jaipur,Medium
+M20788,Grocery,Mumbai,Low
+M20789,Utility,London,Low
+M20790,Grocery,Ahmedabad,Low
+M20791,Fashion,New York,High
+M20792,Fashion,Chennai,Low
+M20793,Others,Bangalore,Medium
+M20794,Education,Mumbai,Low
+M20795,Utility,Mumbai,Medium
+M20796,Food & Beverage,Mumbai,Low
+M20797,Grocery,Kolkata,Low
+M20798,Fashion,Tokyo,Medium
+M20799,Food & Beverage,London,Low
